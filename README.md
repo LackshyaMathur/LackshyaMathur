@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LackshyaMathur
 - 👀 I’m interested in Flutter App Development
-- 🌱 I’m currently learning Flutter and Firebase
+- 🌱 I’m currently learning Flutter and App Developer
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me lackshya803@gmail.com
+- 📫 How to reach me: lackshya803@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lackshyamathur/
 
 <!---
