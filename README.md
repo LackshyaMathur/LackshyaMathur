@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LackshyaMathur
 - 👀 I’m interested in Flutter App Development
-- 🌱 I’m currently learning Flutter, Python, C++, Java, Tableau, Javascript and More....
+- 🌱 I’m currently learning Flutter, Python, C++, Java, Javascript and More....
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me: lackshya803@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lackshyamathur/
